@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/CreditCardLibrary/bin/Debug/netcoreapp3.1
+/CreditCardLibrary/obj
+/CreditCardTest/bin/Debug/netcoreapp3.1
+/CreditCardTest/obj/Debug/netcoreapp3.1
+/CreditCardTest/obj
+/packages
